@@ -5,7 +5,7 @@
 
  ## Key Features:
  * **Data Integration:** We utilize a MySQL database to store crucial business data, including customer details, product information, sales orders, and more.
-* Data Cleaning and Transformation: The project involves cleaning and transforming data to ensure accuracy, consistency, and readiness for analysis. This includes handling duplicates, missing values, and data consistency issues.
-* Interactive Dashboards: We leverage PowerBI to create interactive and visually appealing dashboards and reports that provide valuable insights into sales performance. These dashboards include charts, graphs, and tables.
-* Advanced Analytics: SQL is used to perform advanced analytics on sales data, extracting actionable insights to drive improvements in sales strategies and operations.
-* Real-time Access: The solution allows management to access up-to-date dashboards and reports in real-time, enabling data-driven decision-making.
+* **Data Cleaning and Transformation:** The project involves cleaning and transforming data to ensure accuracy, consistency, and readiness for analysis. This includes handling duplicates, missing values, and data consistency issues.
+* **Interactive Dashboards:** We leverage PowerBI to create interactive and visually appealing dashboards and reports that provide valuable insights into sales performance. These dashboards include charts, graphs, and tables.
+* **Advanced Analytics:** SQL is used to perform advanced analytics on sales data, extracting actionable insights to drive improvements in sales strategies and operations.
+* **Real-time Access:** The solution allows management to access up-to-date dashboards and reports in real-time, enabling data-driven decision-making.
