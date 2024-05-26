@@ -23,3 +23,6 @@
 
 ## Outcomes:
 This project improved sales performance visibility, boosting efficiency by 15%. Interactive dashboards provided real-time insights, highlighting high-performing areas and needed improvements.
+
+
+![Axon-sales image](https://github.com/pks7205/Axon-Sales-Power-BI-Project/assets/169264134/c0aea556-1d67-488e-bd01-90a93f952dd0)
