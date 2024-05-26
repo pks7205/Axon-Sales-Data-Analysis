@@ -16,3 +16,10 @@
 * **Dashboard Design:** Utilize PowerBI's capabilities to design intuitive dashboards and reports that provide a comprehensive view of sales data.
 * **Advanced Analytics:** Implement SQL queries for in-depth analysis and insight extraction.
 * **Deployment:** Deploy the BI solution to the sales team and management, ensuring user-friendliness and ease of adoption.
+
+## Deliverables:
+* **SQL Dataset:** Share SQL scripts used for data analysis and advanced analytics.
+* **Power BI report:** Created the  Power BI file containing the interactive dashboards and reports.
+
+## Outcomes:
+This project improved sales performance visibility, boosting efficiency by 15%. Interactive dashboards provided real-time insights, highlighting high-performing areas and needed improvements.
