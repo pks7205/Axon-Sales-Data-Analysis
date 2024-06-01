@@ -1,4 +1,4 @@
-# Axon Sales Power BI Project
+![Axon-1](https://github.com/pks7205/Axon-Sales-Power-BI-Project/assets/169264134/93e621b3-f00f-4b5c-b394-950f7757a6cb)# Axon Sales Power BI Project
 
  ## **Description**:
  The "Axon Sales data analysis" project is a comprehensive Business Intelligence (BI) solution designed to address the data management and analysis challenges faced by Axon, a retailer specializing in classic cars. Axon is currently struggling to efficiently manage and gain meaningful insights from their sales data, leading to difficulties in decision-making processes. To overcome these challenges, this project leverages the capabilities of Microsoft PowerBI and SQL to create a robust BI system tailored to Axon's needs.
@@ -26,3 +26,8 @@ This project improved sales performance visibility, boosting efficiency by 15%. 
 
 
 ![Axon-sales image](https://github.com/pks7205/Axon-Sales-Power-BI-Project/assets/169264134/c0aea556-1d67-488e-bd01-90a93f952dd0)
+
+
+![Axon-1](https://github.com/pks7205/Axon-Sales-Power-BI-Project/assets/169264134/4bd75812-cf8d-4009-a77c-bf8264497357)
+![Axon-2](https://github.com/pks7205/Axon-Sales-Power-BI-Project/assets/169264134/197384fa-409a-4c43-944f-8335249a899c)
+
